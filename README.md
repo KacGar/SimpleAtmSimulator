@@ -19,3 +19,13 @@ Since i'm just started learning JAVA and programming in general, this was projec
 ## Libraries
 
 One external library used in project is custom Look and Feel API which is free to use, created by FormDev (https://www.formdev.com/flatlaf/) which is not required. Upon starting, app checks if library is there, if not default LaF will be used.
+
+### Screenshots
+
+[![H4dkcMJ.md.png](https://iili.io/H4dkcMJ.md.png)](https://freeimage.host/i/H4dkcMJ)
+[![H4dkana.md.png](https://iili.io/H4dkana.md.png)](https://freeimage.host/i/H4dkana)
+[![H4dkEap.md.png](https://iili.io/H4dkEap.md.png)](https://freeimage.host/i/H4dkEap)
+[![H4dkG8N.md.png](https://iili.io/H4dkG8N.md.png)](https://freeimage.host/i/H4dkG8N)
+[![H4dkl6v.md.png](https://iili.io/H4dkl6v.md.png)](https://freeimage.host/i/H4dkl6v)
+[![H4dk7Zg.md.png](https://iili.io/H4dk7Zg.md.png)](https://freeimage.host/i/H4dk7Zg)
+[![H4dk1FR.png](https://iili.io/H4dk1FR.png)](https://freeimage.host/pl)
